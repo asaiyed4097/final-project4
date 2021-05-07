@@ -1,6 +1,4 @@
 # final-project4
-
-<title>Page Title</title>
 </head>
 <body>
 
