@@ -2,7 +2,7 @@
 <body>
 <h1>Project 1
 <a href="facebook.com">
-<img src="ss1.jpeg" alt="facebook.com">
+<img src="ss1.jpeg" alt="https://asaiyed4097.github.io/flarfpoetry/">
 </a>
 <h1>Project 2
 <body><img src="ss2.jpeg"></body>
