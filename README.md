@@ -1,7 +1,9 @@
 # Final Project 4
 <body>
 <h1>Project 1
-<img src="ss1.jpeg"><a href="https://asaiyed4097.github.io/flarfpoetry/"><img src="ss1.jpeg"></a>
+<a href="facebook.com">
+<img src="ss1.jpeg" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
 <h1>Project 2
 <body><img src="ss2.jpeg"></body>
 <h1>Project 3
