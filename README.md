@@ -2,7 +2,7 @@
 <body>
 <h1>Project 1
 <a href="facebook.com">
-<img src="ss1.jpeg" alt="HTML tutorial" style="width:42px;height:42px;">
+<img src="ss1.jpeg" alt="facebook.com">
 </a>
 <h1>Project 2
 <body><img src="ss2.jpeg"></body>
