@@ -1,5 +1,4 @@
-# final-project4
-</head>
+# final project 4
 <body>
 <h1>Project 1
 <img src="ss1.jpeg"></body>
